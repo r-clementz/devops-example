@@ -8,3 +8,7 @@ An example how to start the setup of a repo following some branching rules.
 
 ### Code Standard 
  blah blah blah...  
+
+### Features / user stories 
+ * As user I want to see a nice greeting on the start page, so I can geel welcome ->Feature1 
+ * More features blah blah -> Feature2  
